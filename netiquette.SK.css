@@ -10,7 +10,8 @@ h1 {
 	border-radius: 10px;
 	font-size: 30px;
 	font-weight: normal;
-	float: center;
+	float: left;
+	
 }
 h3 {
 	color: #7D38AD;
@@ -23,6 +24,7 @@ h3 {
 	border-radius: 5px;
 	font-size: 20px;
 	font-weight: normal;
+	clear: both;
 }
 p {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
@@ -42,18 +44,18 @@ span {
 
 .insta {
 	border: solid;
-	margin-right: 20px;
+	margin-right: 10px;
 }
 
 .snap {
-	float:left;
-	margin-left: 20px;
+	float:right;
+	margin-right: 10px;
 	border: solid black;
 }
 
 .twitter {
-	float:left;
-	margin-left: 10px;
+	float:right;
+	margin-right: 10px;
 	border: solid black;
 }
 
@@ -63,5 +65,4 @@ span {
 	border: solid;
 	border-radius: 100px;
 }
-
 
