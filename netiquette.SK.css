@@ -1,2 +1,67 @@
 @charset "UTF-8";
+h1 {
+	color: #F6CE02;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	width: 250px;
+	padding: 5px;
+	text-align: center;
+	word-spacing: 7px;
+	border: solid #F6CE02 7px;
+	border-radius: 10px;
+	font-size: 30px;
+	font-weight: normal;
+	float: center;
+}
+h3 {
+	color: #7D38AD;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	width: 80px;
+	border: solid #7B38AD 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+	font-weight: normal;
+}
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 15px;
+	color: white;
+}
+.container {
+	background-image: linear-gradient(to right top, #e2e94e, #ffa72d, #ff5f4a, #dd0c72, #8e0b94);
+}
+img {
+	float: right;
+	border: solid black thin;
+}
+span {
+	color:#7B38AD;
+}
+
+.insta {
+	border: solid;
+	margin-right: 20px;
+}
+
+.snap {
+	float:left;
+	margin-left: 20px;
+	border: solid black;
+}
+
+.twitter {
+	float:left;
+	margin-left: 10px;
+	border: solid black;
+}
+
+.fb {
+	float:right;
+	margin-right: 10px;
+	border: solid;
+	border-radius: 100px;
+}
+
 
