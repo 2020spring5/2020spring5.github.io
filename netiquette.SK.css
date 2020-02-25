@@ -43,7 +43,7 @@ span {
 }
 
 .insta {
-	border: solid;
+	border: solid black;
 	margin-right: 10px;
 }
 
@@ -62,7 +62,7 @@ span {
 .fb {
 	float:right;
 	margin-right: 10px;
-	border: solid;
+	border: solid black;
 	border-radius: 100px;
 }
 
