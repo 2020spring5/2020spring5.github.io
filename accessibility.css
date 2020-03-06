@@ -1,0 +1,33 @@
+body {
+	background-color: #E78A8C;
+}
+p {
+	color: #F9F9F9;
+	font-variant: small-caps;
+}
+h3 {
+	color: #E4DF05;
+	border: solid medium;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 25px;
+}
+ul {
+	color: white;
+	font-variant: small-caps
+}
+.top {
+	color: white;
+}
+.title {
+	color: #E4DF05;
+	border: solid medium;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 45px;
+}
+
+a {color: cornflowerblue;}
+a:visited {color: #7E71E3}
+a:hover {color:#F62A2E}
+
