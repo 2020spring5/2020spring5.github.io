@@ -12,6 +12,12 @@ h3 {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 25px;
 }
+
+h1 {color: #E4DF05;
+	border: solid medium;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";}
+	
 ul {
 	color: white;
 	font-variant: small-caps
