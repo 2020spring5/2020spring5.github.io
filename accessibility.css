@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
 	background-color: #E78A8C;
 }
@@ -12,19 +13,17 @@ h3 {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 25px;
 }
+ul {
+	color: white;
+	font-variant: small-caps
+}
 
 h1 {color: #E4DF05;
 	border: solid medium;
 	text-align: center;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";}
-	
-ul {
-	color: white;
-	font-variant: small-caps
-}
-.top {
-	color: white;
-}
+
+
 .title {
 	color: #E4DF05;
 	border: solid medium;
@@ -34,6 +33,7 @@ ul {
 }
 
 a {color: cornflowerblue;}
-a:visited {color: #F62A2E}
-a:hover {color:#E4DF05}
+a:visited {color: #E4DF05}
+
+a:hover {color:#F62A2E}
 
