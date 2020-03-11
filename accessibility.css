@@ -37,3 +37,7 @@ a:visited {color: #E4DF05}
 
 a:hover {color:#F62A2E}
 
+h2 {color:#E4DF05;border: solid medium;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";}
+
