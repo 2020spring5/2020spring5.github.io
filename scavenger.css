@@ -1,11 +1,15 @@
 h1 {color:#EDC2D8FF;
 font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-text-align: center;}
+text-align: center;
+border: solid medium;
+ border-color: white;}
 
 h2 {color:#EDC2D8FF;
 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 text-align: center}
-body {background-color: #8ABAD3FF}
+body {background-color: #8ABAD3FF;
+border: solid medium;
+border-color: white;}
 
 p {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 color: white;
