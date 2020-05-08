@@ -1,16 +1,16 @@
-body{background-color:#FFFF8A}
+body{background-color:#BEB0A7}
 
-h1 {color:#FFC9F8;
+h1 {color:#3A4E48;
 font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 text-align: center;
 border: solid medium;
- border-color:#D4E4FF;}
+ border-color:#6A7B76;}
 
-h2 {color:#FFC9F8;
+h2 {color:#3A4E48;
 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 text-align: center;
 border: solid medium;
- border-color:#D4E4FF;}
+ border-color:#6A7B76;}
 
 
 p {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
@@ -21,7 +21,7 @@ ol {color:black;
  
 a:visited {color: white}
 
-a:hover {color:black}
+a:hover {color:#8B9D83}
 
 hr {color:white;
 style: solid medium}
