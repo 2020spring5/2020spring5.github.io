@@ -1,20 +1,23 @@
-background{color:yellow}
+body{background-color:#FFFF8A}
 
-h1 {color:white;
+h1 {color:#FFC9F8;
 font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 text-align: center;
 border: solid medium;
- border-color: white;}
+ border-color:#D4E4FF;}
 
-h2 {color:white;
-font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}
+h2 {color:#FFC9F8;
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+text-align: center;
+border: solid medium;
+ border-color:#D4E4FF;}
 
 
 p {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-color: white;}
+color:black;}
 
-ul {color:white;}
-ol {color:white;
+ul {color:black;}
+ol {color:black;
  
 a:visited {color: white}
 
