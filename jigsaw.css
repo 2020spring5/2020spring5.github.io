@@ -7,27 +7,18 @@ border: solid medium;
  border-color: white;}
 
 h2 {color:white;
-font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-text-align: center}
-body {background-color: #8ABAD3FF;
-border: solid medium;
-border-color: white;}
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}
+
 
 p {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-color: white;
-text-align: center;}
+color: white;}
 
-ul {color:white;
-text-align: center;
-list-style-position: inside;}
+ul {color:white;}
 ol {color:white;
-text-align: center;
-list-style-position: inside;}
-
-
+ 
 a:visited {color: white}
 
 a:hover {color:black}
 
 hr {color:white;
- style: solid medium}
+style: solid medium}
