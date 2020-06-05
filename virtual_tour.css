@@ -1,5 +1,8 @@
 h1 {color:#394053;
-text-align:center}
+text-align:center;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-size: 30px;
+font-weight: normal;}
 
 body {background-color:#7CAE7A}
 
@@ -9,7 +12,8 @@ a {color:#FFFCF9}
 
 a:hover {color:#4E4A59}
 
-h2 {color:#394053}
+h2 {color:#394053;
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}
 
 .links {margin-right: 10px;
   margin-left: 10px}
