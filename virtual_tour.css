@@ -1,4 +1,10 @@
-body {background-color:#C3ACCE}
+h1 {color:#FF6978;
+text-align:center}
 
-h1 {color: #538083; 
-text-align: center;}
+body {background-color:#7CAE7A}
+
+p {color:#FFFCF9}
+
+a {color:#FFFCF9}
+
+a:hover {color:#FF6978}
